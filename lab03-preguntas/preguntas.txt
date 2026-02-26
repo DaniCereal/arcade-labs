@@ -1,4 +1,12 @@
-¿Cuál es la capital de España?|Madrid|Barcelona|Sevilla|Toledo
-¿Cuántos continentes hay?|5|7|6|3
-¿Qué lenguaje se usa para programar en Arcade?Python|Java|JavaScript|C
-¿La tortilla de patata lleva cebolla?|Jamás|Si|No con excepciones|Tal vez
+¿Cuál es la capital de España?|Madrid|Barcelona|Sevilla|Toledo|
+¿Cuántos continentes hay?|5|7|6|3|
+¿Qué lenguaje se usa para programar en Arcade?|Python|Java|JavaScript|C|
+¿La tortilla de patata lleva cebolla?|Jamás|Si|No con excepciones|Tal vez|
+¿Quién escribió Don Quijote de la Mancha?|Miguel de Unamuno|Miguel de Cervantes|Federico García Lorca|Lope de Vega|
+¿Cuál es el planeta más grande del sistema solar?|Saturno|Marte|Júpiter|Venus|
+¿En qué año llegó el hombre a la Luna?|1965|1967|1972|1969|
+¿Quién pintó la Mona Lisa?|Vincent van Gogh|Pablo Picasso|Leonardo da Vinci|Claude Monet|
+¿Cuál es el océano más grande del mundo?|Atlántico|Índico|Ártico|Pacífico|
+¿Cuál es la capital de Francia?|Lyon|Marsella|París|Toulouse|
+¿Quién desarrolló la teoría de la relatividad?|Isaac Newton|Nikola Tesla|Albert Einstein|Galileo Galilei|
+¿En qué país se encuentra Machu Picchu?|México|Colombia|Chile|Perú|
